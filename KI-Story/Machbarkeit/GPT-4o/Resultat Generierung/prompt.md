@@ -1,3 +1,5 @@
+https://chatgpt.com/c/66ee838b-4ed8-8004-b168-669fb14368ac
+
 Eingabe:
 
 *Analysiere die Geschichte, die du erstellt hast, indem du die folgenden Aspekte behandelst:*
