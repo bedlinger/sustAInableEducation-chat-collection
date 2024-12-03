@@ -16,8 +16,8 @@ Ausgabe:
 
 *Der erste Schritt zur Transformation der Stadt war die Verbesserung des Verkehrs. Greifental war bekannt für seine verstopften Straßen und den massiven Ausstoß von CO₂ durch alte Dieselbusse und private Fahrzeuge. Der Bürgermeister stand vor zwei Optionen:*
 
-***Option A:** Einführung eines umfassenden E-Bus-Systems und Subventionierung von E-Autos, um den CO₂-Ausstoß drastisch zu reduzieren.
-**Option B:** Aufbau eines stadtweiten Fahrrad- und Fußgängernetzwerks sowie einer autofreien Innenstadt, um den Individualverkehr komplett zu reduzieren und den öffentlichen Raum zurückzugewinnen.*
+***Option A:** Einführung eines umfassenden E-Bus-Systems und Subventionierung von E-Autos, um den CO₂-Ausstoß drastisch zu reduzieren.*
+***Option B:** Aufbau eines stadtweiten Fahrrad- und Fußgängernetzwerks sowie einer autofreien Innenstadt, um den Individualverkehr komplett zu reduzieren und den öffentlichen Raum zurückzugewinnen.*
 
 *Welche Option soll der Bürgermeister wählen?*
 
@@ -31,8 +31,8 @@ Ausgabe:
 
 *Nach dem Erfolg im Verkehrssektor stand der Bürgermeister vor der nächsten großen Herausforderung: der Umstellung der Energieversorgung. Die Stadt Greifental bezog noch immer einen Großteil ihrer Energie aus Kohlekraftwerken, was nicht nur klimaschädlich war, sondern auch hohe Kosten verursachte. Zwei Alternativen standen zur Wahl:*
 
-***Option A:** Ausbau der Solarenergie mit umfangreichen Solaranlagen auf städtischen Gebäuden und Förderprogrammen für private Haushalte, um die Stadt auf 50 % Solarenergie bis 2035 umzustellen.
-**Option B:** Investition in Windkraft, durch den Bau von Windparks in der Umgebung der Stadt und die Beteiligung der Bürger an einem genossenschaftlichen Windkraftfonds, der Gewinne an die Einwohner ausschüttet.*
+***Option A:** Ausbau der Solarenergie mit umfangreichen Solaranlagen auf städtischen Gebäuden und Förderprogrammen für private Haushalte, um die Stadt auf 50 % Solarenergie bis 2035 umzustellen.*
+***Option B:** Investition in Windkraft, durch den Bau von Windparks in der Umgebung der Stadt und die Beteiligung der Bürger an einem genossenschaftlichen Windkraftfonds, der Gewinne an die Einwohner ausschüttet.*
 
 *Welche Option soll der Bürgermeister wählen?*
 
@@ -46,8 +46,8 @@ Ausgabe:
 
 *Mit der sich verändernden Klimasituation wurde der Wasserverbrauch zu einem kritischen Thema. Sommerliche Hitzewellen und Dürreperioden hatten die Wasserreserven in den letzten Jahren erheblich verringert. Heinemann musste eine nachhaltige Lösung finden:*
 
-***Option A:** Einführung eines stadtweiten Grauwassersystems, das Haushaltswasser aus Duschen und Waschmaschinen recycelt und für die Bewässerung von Gärten und städtischen Grünanlagen nutzt.
-**Option B:** Bau von Regenwasserspeichern in jedem Stadtteil, um Regenwasser zu sammeln und es zur Bewässerung und in Notfällen zur Trinkwasserversorgung zu nutzen.*
+***Option A:** Einführung eines stadtweiten Grauwassersystems, das Haushaltswasser aus Duschen und Waschmaschinen recycelt und für die Bewässerung von Gärten und städtischen Grünanlagen nutzt.*
+***Option B:** Bau von Regenwasserspeichern in jedem Stadtteil, um Regenwasser zu sammeln und es zur Bewässerung und in Notfällen zur Trinkwasserversorgung zu nutzen.*
 
 *Welche Option soll der Bürgermeister wählen?*
 
@@ -61,8 +61,8 @@ Ausgabe:
 
 *Ein weiteres Problem der Stadt war der stark zunehmende Abfall. Die Deponien in der Umgebung von Greifental waren fast voll, und Recycling wurde von den Bürgern nur sporadisch betrieben. Zwei Lösungen boten sich dem Bürgermeister:*
 
-***Option A:** Einführung eines strikten "Zero-Waste"-Programms mit umfassender Mülltrennung, Anreizen zur Abfallvermeidung und hohen Strafen für nicht ordnungsgemäße Müllentsorgung.
-**Option B:** Bau einer modernen, umweltfreundlichen Müllverbrennungsanlage, die den Abfall in Energie umwandelt und den Restmüll der Stadt drastisch reduziert.*
+***Option A:** Einführung eines strikten "Zero-Waste"-Programms mit umfassender Mülltrennung, Anreizen zur Abfallvermeidung und hohen Strafen für nicht ordnungsgemäße Müllentsorgung.*
+***Option B:** Bau einer modernen, umweltfreundlichen Müllverbrennungsanlage, die den Abfall in Energie umwandelt und den Restmüll der Stadt drastisch reduziert.*
 
 *Welche Option soll der Bürgermeister wählen?*
 
@@ -76,8 +76,8 @@ Ausgabe:
 
 *Die letzte Herausforderung war die Gestaltung der städtischen Grünflächen. Greifental hatte viele kleine Parks, doch diese waren oft schlecht gepflegt und boten wenig Nutzen für die Bewohner. Der Bürgermeister sah zwei Wege, die Grünflächen umzugestalten:*
 
-***Option A:** Aufbau von "urbanen Wäldern" in der Innenstadt, die die Luftqualität verbessern und die Artenvielfalt erhöhen sollten. Diese Wälder würden auch als natürliche Klimaanlagen wirken, die das Stadtklima in heißen Sommern abkühlen.
-**Option B:** Errichtung von Gemeinschaftsgärten und Dachgärten auf städtischen Gebäuden, die nicht nur grüne Oasen, sondern auch Nahrungsmittel für die Einwohner liefern sollten.*
+***Option A:** Aufbau von "urbanen Wäldern" in der Innenstadt, die die Luftqualität verbessern und die Artenvielfalt erhöhen sollten. Diese Wälder würden auch als natürliche Klimaanlagen wirken, die das Stadtklima in heißen Sommern abkühlen.*
+***Option B:** Errichtung von Gemeinschaftsgärten und Dachgärten auf städtischen Gebäuden, die nicht nur grüne Oasen, sondern auch Nahrungsmittel für die Einwohner liefern sollten.*
 
 *Welche Option soll der Bürgermeister wählen?*
 

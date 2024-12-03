@@ -54,7 +54,7 @@ Ausgabe:
 
 *Der Bürgerentscheid war eindeutig: Mit großer Mehrheit votierten die Altvillaer für Option B und setzten auf die Kraft der Sonne über ihren Köpfen. "Dezentrale Energiegewinnung – das ist die Zukunft!", verkündete Bürgermeister Berger stolz. Doch die Euphorie wich schnell der Realität.*
 
-*Die neuen Förderprogramme für Photovoltaik-Anlagen waren begehrt. Handwerker*innen konnten sich vor Aufträgen kaum retten. Doch die hohen Kosten schreckten viele Hausbesitzer, besonders in den einkommensschwächeren Vierteln, ab. Die Solarpflicht für Neubauten verzögerte Bauvorhaben und ließ die Preise für Wohnungen steigen. Und nicht jedes Dach in Altvilla eignete sich optimal für die Sonnenenergiegewinnung. Eng bebaute Hinterhöfe blieben im Schatten, während die Stromrechnung für ihre Bewohner hoch blieb.\*
+*Die neuen Förderprogramme für Photovoltaik-Anlagen waren begehrt. Handwerkerinnen konnten sich vor Aufträgen kaum retten. Doch die hohen Kosten schreckten viele Hausbesitzer, besonders in den einkommensschwächeren Vierteln, ab. Die Solarpflicht für Neubauten verzögerte Bauvorhaben und ließ die Preise für Wohnungen steigen. Und nicht jedes Dach in Altvilla eignete sich optimal für die Sonnenenergiegewinnung. Eng bebaute Hinterhöfe blieben im Schatten, während die Stromrechnung für ihre Bewohner hoch blieb.*
 
 ***Entscheidungspunkt 3: Dem Wassermangel trotzen - Wassersparen oder neue Quellen erschließen?***
 

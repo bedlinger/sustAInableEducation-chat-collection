@@ -16,9 +16,9 @@ Ausgabe:
 
 ***Entscheidungspunkt 1: Wählt Lena das günstige Top aus dem Schaufenster oder investiert sie in das nachhaltige Top aus dem Green Fashion Laden?***
 
-***(Wähle eine Option):**
-A) Lena kauft das günstige Top.
-B) Lena kauft das nachhaltige Top.*
+***(Wähle eine Option):***
+*A) Lena kauft das günstige Top.*
+*B) Lena kauft das nachhaltige Top.*
 
 Eingabe:
 
@@ -36,9 +36,9 @@ Ausgabe:
 
 ***Entscheidungspunkt 2: Hält sich Lena an die Waschanleitung und wäscht das Top aufwendig per Hand, oder wirft sie es der Bequemlichkeit halber in die Waschmaschine?***
 
-***(Wähle eine Option):**
-A) Lena wäscht das Top mit der Hand.
-B) Lena wirft das Top in die Waschmaschine.*
+***(Wähle eine Option):***
+*A) Lena wäscht das Top mit der Hand.*
+*B) Lena wirft das Top in die Waschmaschine.*
 
 Eingabe:
 
@@ -54,9 +54,9 @@ Ausgabe:
 
 ***Entscheidungspunkt 3: Entsorgt Lena das Top im Altkleidersack, oder sucht sie nach Möglichkeiten, es weiterzuverwenden?***
 
-***(Wähle eine Option):**
-A) Lena wirft das Top in den Altkleidersack.
-B) Lena sucht nach einer Möglichkeit, das Top weiterzuverwenden.*
+***(Wähle eine Option):***
+*A) Lena wirft das Top in den Altkleidersack.*
+*B) Lena sucht nach einer Möglichkeit, das Top weiterzuverwenden.*
 
 Eingabe:
 
